@@ -110,6 +110,7 @@ and make sure in the setup you insert `CH224X1.begin();`
 | PG (Power Good)| PB5 |
 | 3V             | 3.3V |
 | GND            | GND |
+|----------------|-------------------|
 
 <hr>
 

@@ -2,7 +2,8 @@
 
 [![GitHub Pages](https://img.shields.io/badge/Docs-Website-blue?logo=github)](https://felixardyansyah.github.io/CH224A_MODULE_FGV/)
 [![GitHub Repo](https://img.shields.io/badge/Source-Code-green?logo=github)](https://github.com/felixardyansyah/CH224A_MODULE_FGV)
-👉 [https://felixardyansyah.github.io/CH224A_MODULE_FGV/](https://felixardyansyah.github.io/CH224A_MODULE_FGV/)
+
+ [https://felixardyansyah.github.io/CH224A_MODULE_FGV/](https://felixardyansyah.github.io/CH224A_MODULE_FGV/)
 
 ### 🔌 CH224A_Board module compatible with Arduino library
 

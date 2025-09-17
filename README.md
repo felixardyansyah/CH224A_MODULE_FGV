@@ -211,6 +211,123 @@ The board has an **R2 footprint** for simulating a USB-C e-marker. To enable thi
 
 ![CH224A E-marker simulation](IMG/5.png)
 
+
+
+##  TESTED CHARGER/POWERBANK
+
+
+# DELL LAPTOP CHARGER 65W
+
+Active Protocols: PD
+
+Voltage: 5.00 V | Max Current: 3000 mA
+✅ Power Good: Output stable.
+
+Voltage: 9.00 V | Max Current: 3000 mA
+✅ Power Good: Output stable.
+
+Voltage: 12.00 V | Max Current: 3000 mA
+❌ Voltage not supported by charger
+
+Voltage: 15.00 V | Max Current: 3000 mA
+✅ Power Good: Output stable.
+
+Voltage: 20.00 V | Max Current: 3250 mA
+✅ Power Good: Output stable.
+
+Voltage: 28.00 V | Max Current: 3250 mA
+❌ Voltage not supported by charger
+
+# USB-PD 65W Fast Charging Module (XPM52C) (C TO C CABLE)
+
+Active Protocols: PD
+
+Voltage: 5.00 V | Max Current: 3000 mA
+✅ Power Good: Output stable.
+
+Voltage: 9.00 V | Max Current: 3000 mA
+✅ Power Good: Output stable.
+
+Voltage: 12.00 V | Max Current: 3000 mA
+✅ Power Good: Output stable.
+
+Voltage: 15.00 V | Max Current: 3000 mA
+✅ Power Good: Output stable.
+
+Voltage: 20.00 V | Max Current: 3250 mA
+✅ Power Good: Output stable.
+
+Voltage: 28.00 V | Max Current: 3250 mA
+❌ Voltage not supported by charger
+
+# 65W PowerBank DAP 20000mAh (C TO C CABLE)
+
+Active Protocols: PD
+
+Voltage: 5.00 V | Max Current: 3000 mA
+✅ Power Good: Output stable.
+
+Voltage: 9.00 V | Max Current: 3000 mA
+✅ Power Good: Output stable.
+
+Voltage: 12.00 V | Max Current: 3000 mA
+✅ Power Good: Output stable.
+
+Voltage: 15.00 V | Max Current: 3000 mA
+✅ Power Good: Output stable.
+
+Voltage: 20.00 V | Max Current: 3000 mA
+✅ Power Good: Output stable.
+
+Voltage: 28.00 V | Max Current: 3000 mA
+❌ Voltage not supported by charger
+
+# 65W PowerBank DAP 20000mAh (A TO C CABLE)
+
+Active Protocols: BC, QC3
+
+Voltage: 5.00 V | Max Current: 0 mA
+✅ Power Good: Output stable.
+
+Voltage: 9.00 V | Max Current: 0 mA
+✅ Power Good: Output stable.
+
+Voltage: 12.00 V | Max Current: 0 mA
+✅ Power Good: Output stable.
+
+Voltage: 15.00 V | Max Current: 0 mA
+❌ Voltage not supported by charger
+
+Voltage: 20.00 V | Max Current: 0 mA
+❌ Voltage not supported by charger
+
+Voltage: 28.00 V | Max Current: 0 mA
+❌ Voltage not supported by charger
+
+# MODUL STEP DOWN FAST CHARGING QUICK CHARGE QC 3.0 (IP6505) (A TO C CABLE)
+
+Active Protocols: BC, QC3
+
+Voltage: 5.00 V | Max Current: 0 mA
+✅ Power Good: Output stable.
+
+Voltage: 9.00 V | Max Current: 0 mA
+✅ Power Good: Output stable.
+
+Voltage: 12.00 V | Max Current: 0 mA
+✅ Power Good: Output stable.
+
+Voltage: 15.00 V | Max Current: 0 mA
+❌ Voltage not supported by charger
+
+Voltage: 20.00 V | Max Current: 0 mA
+❌ Voltage not supported by charger
+
+Voltage: 28.00 V | Max Current: 0 mA
+❌ Voltage not supported by charger
+
+### LOGGING WITH Simple_USB_Protocol_Tester 
+
 ##  PICTURE
 
 

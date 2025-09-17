@@ -90,6 +90,7 @@ and make sure in the setup you insert `CH224X1.begin();`
 
 
 ### Arduino / ATmega / LGT8F328 (5V logic)
+
 | CH224X Pin     | Board Pin Example |
 |----------------|-------------------|
 | SDA (5D)       | A5 (Arduino, LGT8F328) → *may differ on other MCUs* |
@@ -100,7 +101,9 @@ and make sure in the setup you insert `CH224X1.begin();`
 | GND            | GND |
 |----------------|-------------------|
 
+
 ![CH224A 5V I2C wiring](IMG/1.png)
+
 
 ### STM32 (3.3V logic)
 

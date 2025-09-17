@@ -1,3 +1,3 @@
+remote_theme: just-the-docs/just-the-docs
 title: CH224A Module FGV
-description: USB PD trigger board based on CH224A
-theme: jekyll-theme-cayman
+description: USB-C PD Trigger Board based on CH224A with Arduino/STM32 support

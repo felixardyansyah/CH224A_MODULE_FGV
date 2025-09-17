@@ -59,8 +59,8 @@ By offloading the complexity of PD/QC negotiation to the CH224A, this board make
 
 Library link and If you want to buy the board(I’m working with local seller **Freelab Jakarta**, soo its only available in Indonesia):
 ### [GITHUB LIBRARY CH224A LINK](https://github.com/felixardyansyah/FGV_CH224X)
-### [BUY MODULE BOARD CH224A LINK](https://www.tokopedia.com/freelab-jakarta)
-
+### [BUY MODULE BOARD CH224A LINK(FREELAB)](https://www.tokopedia.com/freelab-jakarta)
+### [BUY MODULE BOARD CH224A LINK(ME DIRECLY)](https://shopee.co.id/PD-QC-decoy-trigger-USB-type-C-I2C-CH224A-module-By-FVG-i.308559525.41969254944?sp_atk=50d630ca-4368-4fdb-bb9a-6ab43b57e671&xptdk=50d630ca-4368-4fdb-bb9a-6ab43b57e671)
 ## Arduino I2C Library Commands
 &#8211;&nbsp;&nbsp; `isPowerGood() read data type bool`
 <br>the power good indicator from CH224A/Q active low mean voltage good = 0, voltage bad = 1

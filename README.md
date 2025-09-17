@@ -1,4 +1,8 @@
 # FGV CH224A_Board
+
+[![GitHub Pages](https://img.shields.io/badge/Docs-Website-blue?logo=github)](https://felixardyansyah.github.io/CH224A_MODULE_FGV/)
+[![GitHub Repo](https://img.shields.io/badge/Source-Code-green?logo=github)](https://github.com/felixardyansyah/CH224A_MODULE_FGV)
+
 ### 🔌 CH224A_Board module compatible with Arduino library
 
 This board is built around the CH224A, a compact and efficient power negotiation controller from WCH. The chip communicates with modern USB-C Power Delivery (PD) and Quick Charge (QC) sources, allowing your project to request a wide range of voltages beyond the standard 5 V — up to 28 V depending on the adapter’s capabilities. Control is flexible: voltages can be set using simple GPIO pin selection for lightweight applications or managed dynamically through the I²C interface for advanced use cases such as protocol detection and current monitoring.

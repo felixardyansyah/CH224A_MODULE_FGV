@@ -102,7 +102,7 @@ and make sure in the setup you insert `CH224X1.begin();`
 |----------------|-------------------|
 
 
-![CH224A 5V I2C wiring](IMG/1.png)
+! [CH224A 5V I2C wiring](IMG/1.png)
 
 
 ### STM32 (3.3V logic)

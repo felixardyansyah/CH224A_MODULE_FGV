@@ -99,10 +99,9 @@ and make sure in the setup you insert `CH224X1.begin();`
 | 5V             | 5V |
 | 3V             | 3.3V |
 | GND            | GND |
-|----------------|-------------------|
 
 
-! [CH224A 5V I2C wiring](IMG/1.png)
+![CH224A 5V I2C wiring](IMG/1.png)
 
 
 ### STM32 (3.3V logic)
@@ -114,7 +113,6 @@ and make sure in the setup you insert `CH224X1.begin();`
 | PG (Power Good)| PB5 |
 | 3V             | 3.3V |
 | GND            | GND |
-|----------------|-------------------|
 
 <hr>
 
@@ -127,7 +125,7 @@ and make sure in the setup you insert `CH224X1.begin();`
 | PG (Power Good)| GPIO 7 (ESP32-S3) → *you can choose other safe pins* |
 | 3V             | 3.3V |
 | GND            | GND |
-|----------------|-------------------|
+
 
 ![CH224A 3V I2C wiring](IMG/2.png)
 
@@ -170,7 +168,7 @@ and make sure in the setup you insert `CH224X1.begin();`
 | IO3 (SL)       | 2 kΩ resistor     | A4 (Arduino, LGT8F328) → *may differ on other MCUs* |
 | 3V             | —                 | 3.3V |
 | GND            | —                 | GND |
-|----------------|-------------------|
+
 
 
 
@@ -185,7 +183,7 @@ and make sure in the setup you insert `CH224X1.begin();`
 | IO3 (SL)       | GPIO 5 (ESP32-S3) → *you can choose other safe pins* |
 | 3V             | 3.3V |
 | GND            | GND |
-|----------------|-------------------|
+
 
 ![CH224A 3V GPIO wiring](IMG/4.png)
 
